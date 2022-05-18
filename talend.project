@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_ncIaEG4tEey0quFBGxVm2A" label="CLOUD_SF_TALEND_JOBS" description="SALESFORCE ETL" language="java" technicalLabel="CLOUD_SF_TALEND_JOBS" author="_ncIaEW4tEey0quFBGxVm2A" productVersion="Talend Cloud Data Management Platform-7.3.1.20210818_1049-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/michellepanis/Talend_Projects.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_ne_g0G4tEey0quFBGxVm2A" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_ncIaEW4tEey0quFBGxVm2A" login="michelle.panis@ivoclarvivadent.com" firstName="Michelle" lastName="Panis" type="DQ"/>
+  <TalendProperties:User xmi:id="_WtR5kKXEEeyVh5Lo2DCwcA" login="markusstrasser@ivoclarvivadent.com" firstName="markus" lastName="strasser" type="DQ"/>
+</xmi:XMI>
